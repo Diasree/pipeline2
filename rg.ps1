@@ -1,0 +1,1 @@
+New-AzResourceGroup -Name RG1902 -Location "South Central US"
